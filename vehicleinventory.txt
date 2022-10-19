@@ -1,0 +1,4 @@
+Vehicle Inventory
+
+ID  Make  Model  Color  Year  Mileage
+0   Jeep   Cherokee   Black   2000   200234 
